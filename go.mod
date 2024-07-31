@@ -1,4 +1,5 @@
-module github.com/your-username/go-mod-core-contracts/v3 v3.2.0-dev.30
+// updated
+module github.com/cg-edgexfoundry/go-mod-core-contracts/v3
 
 go 1.21
 
