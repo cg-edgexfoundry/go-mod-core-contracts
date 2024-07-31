@@ -1,8 +1,9 @@
-module github.com/cg-edgexfoundry/go-mod-core-contracts/v3
+module github.com/your-username/go-mod-core-contracts/v3 v3.2.0-dev.30
 
 go 1.21
 
 require (
+	github.com/edgexfoundry/go-mod-core-contracts/v3 v3.1.0
 	github.com/fxamacker/cbor/v2 v2.7.0
 	github.com/go-kit/log v0.2.1
 	github.com/go-playground/validator/v10 v10.22.0
