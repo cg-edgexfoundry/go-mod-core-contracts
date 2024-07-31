@@ -1,4 +1,4 @@
-module github.com/edgexfoundry/go-mod-core-contracts/v3
+module github.com/cg-edgexfoundry/go-mod-core-contracts/v3
 
 go 1.21
 
