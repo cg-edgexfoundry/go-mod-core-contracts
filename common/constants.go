@@ -378,7 +378,7 @@ const (
 	SystemEventPublishTopic = "system-events" // <SourceServiceName>/<SystemEventType>/<SystemEventAction><OwnerServiceName>/<ProfileName>
 
 	// Core Data Topics
-	CoreDataEventSubscribeTopic = "events/device/#"
+	CoreDataEventSubscribeTopic = "Qualcomm/#"
 
 	// Core Command Topics
 	CoreCommandDeviceRequestPublishTopic  = "device/command/request" // <DeviceServiceName>/<DeviceName>/<CommandName>/<CommandMethod> are appended
